@@ -29,7 +29,7 @@
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1729837722,
+    "expirationDate": 1729842137,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_clsk",
@@ -38,12 +38,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "1aanrs%7C1729751322735%7C2%7C1%7Cv.clarity.ms%2Fcollect",
+    "value": "18n5rp2%7C1729755737321%7C2%7C1%7Cv.clarity.ms%2Fcollect",
     "id": 3
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1737527355,
+    "expirationDate": 1737531719,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_fbp",
@@ -57,7 +57,7 @@
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1764311351.273738,
+    "expirationDate": 1764315719.210333,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_ga",
@@ -71,7 +71,7 @@
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1764311356.644823,
+    "expirationDate": 1764315720.786936,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_ga_541KJRMETX",
@@ -80,7 +80,7 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "GS1.1.1729751278.1.1.1729751356.55.0.0",
+    "value": "GS1.1.1729754576.2.1.1729755720.47.0.0",
     "id": 6
 },
 {
@@ -113,7 +113,7 @@
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1764311356.689341,
+    "expirationDate": 1764315720.739319,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_ga_9B4PZFJ8Z9",
@@ -122,7 +122,7 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "GS1.1.1729751278.1.1.1729751356.0.0.0",
+    "value": "GS1.1.1729754576.2.1.1729755720.0.0.0",
     "id": 9
 },
 {
@@ -183,20 +183,6 @@
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1729751378,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_gat_UA-175437060-12",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "1",
-    "id": 14
-},
-{
-    "domain": ".ccbp.in",
     "expirationDate": 1737446486,
     "hostOnly": false,
     "httpOnly": false,
@@ -207,7 +193,7 @@
     "session": false,
     "storeId": "0",
     "value": "1.1.1260557130.1729670486",
-    "id": 15
+    "id": 14
 },
 {
     "domain": ".ccbp.in",
@@ -221,11 +207,11 @@
     "session": false,
     "storeId": "0",
     "value": "GA1.2.171319635.1729670494",
-    "id": 16
+    "id": 15
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1761287358,
+    "expirationDate": 1761291726,
     "hostOnly": false,
     "httpOnly": false,
     "name": "ajs_anonymous_id",
@@ -235,11 +221,11 @@
     "session": false,
     "storeId": "0",
     "value": "043d919c-6426-46ce-a6b1-cc1e42ba8ff8",
-    "id": 17
+    "id": 16
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1761287358,
+    "expirationDate": 1761291726,
     "hostOnly": false,
     "httpOnly": false,
     "name": "ajs_user_id",
@@ -249,11 +235,11 @@
     "session": false,
     "storeId": "0",
     "value": "dfaab252-75fe-40d4-95e7-2c7b5f1abf16",
-    "id": 18
+    "id": 17
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1761287358,
+    "expirationDate": 1761291726,
     "hostOnly": false,
     "httpOnly": false,
     "name": "analytics_session_id",
@@ -262,12 +248,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "1729751286498",
-    "id": 19
+    "value": "1729754579137",
+    "id": 18
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1761287358,
+    "expirationDate": 1761291726,
     "hostOnly": false,
     "httpOnly": false,
     "name": "analytics_session_id.last_access",
@@ -276,12 +262,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "1729751358500",
-    "id": 20
+    "value": "1729755726893",
+    "id": 19
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1761287361,
+    "expirationDate": 1761291728,
     "hostOnly": false,
     "httpOnly": false,
     "name": "mp_172d50fc48f5056aaba45aad789c280d_mixpanel",
@@ -291,11 +277,11 @@
     "session": false,
     "storeId": "0",
     "value": "%7B%22distinct_id%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%2C%22%24device_id%22%3A%20%22192bd360d5bd29b-045e3cb7a25564-b457554-61830-192bd360d5cd29d%22%2C%22mp_lib%22%3A%20%22Segment%3A%20web%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Faccounts.ccbp.in%2F%22%2C%22%24initial_referring_domain%22%3A%20%22accounts.ccbp.in%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%2C%22mp_name_tag%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%2C%22gender%22%3A%20%22male%22%2C%22active_enroll_plan%22%3A%20%22CCBP_ACADEMY_SMART%22%2C%22user_tag_category%22%3A%20%22TA_23021%22%2C%22we_whatsapp_opt_in%22%3A%20true%2C%22id%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%7D",
-    "id": 21
+    "id": 20
 },
 {
     "domain": "learning.ccbp.in",
-    "expirationDate": 1732343273,
+    "expirationDate": 1732347719,
     "hostOnly": true,
     "httpOnly": false,
     "name": "dM091sxw8d0Y",
@@ -304,12 +290,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "0CMM5qf18tgroxHESwALBeaxJoDT1z",
-    "id": 22
+    "value": "HgHymPOriNKdkGoHaiIVyeBAE0MCQI",
+    "id": 21
 },
 {
     "domain": "learning.ccbp.in",
-    "expirationDate": 1732343265,
+    "expirationDate": 1732347718,
     "hostOnly": true,
     "httpOnly": false,
     "name": "GRcLeARHfR",
@@ -318,12 +304,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "n5aRjDnORQurwIyw0Ahv9HGArK9BEC",
-    "id": 23
+    "value": "5m11xLE4oVMpmBt0liybM2hmTIKzB0",
+    "id": 22
 },
 {
     "domain": "learning.ccbp.in",
-    "expirationDate": 1732343273,
+    "expirationDate": 1732347719,
     "hostOnly": true,
     "httpOnly": false,
     "name": "s1yjVnlCL8pr",
@@ -332,8 +318,8 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "xUBKaXHEMP8glK9s33OeZWacs7Njfg",
-    "id": 24
+    "value": "zn0sONSZK6SjzOXsGdKZXiIC1lk67c",
+    "id": 23
 },
 {
     "domain": "learning.ccbp.in",
@@ -347,11 +333,11 @@
     "session": false,
     "storeId": "0",
     "value": "true",
-    "id": 25
+    "id": 24
 },
 {
     "domain": "learning.ccbp.in",
-    "expirationDate": 1729752164,
+    "expirationDate": 1729756610,
     "hostOnly": true,
     "httpOnly": false,
     "name": "ws_DnGpaHizRpdr",
@@ -361,11 +347,11 @@
     "session": false,
     "storeId": "0",
     "value": "nkb-backend-ws-ccbp-prod-apis.ccbp.in",
-    "id": 26
+    "id": 25
 },
 {
     "domain": "learning.ccbp.in",
-    "expirationDate": 1729752164,
+    "expirationDate": 1729756610,
     "hostOnly": true,
     "httpOnly": false,
     "name": "ws_XHObPCvTrnRP",
@@ -374,12 +360,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "7OGx9JCAndJOFUsdTwCHiWvtvA7LAMD35X2K",
-    "id": 27
+    "value": "Ewb01jxYf9OTrpgZ9qWR9zVLSGdcGswi3rJ5",
+    "id": 26
 },
 {
     "domain": "learning.ccbp.in",
-    "expirationDate": 1732343273,
+    "expirationDate": 1732347719,
     "hostOnly": true,
     "httpOnly": false,
     "name": "zNpqsCe7HG9b",
@@ -389,6 +375,6 @@
     "session": false,
     "storeId": "0",
     "value": "dfaab252-75fe-40d4-95e7-2c7b5f1abf16",
-    "id": 28
+    "id": 27
 }
 ]
