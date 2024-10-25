@@ -29,20 +29,6 @@
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1729922136,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_clsk",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "pbpufi%7C1729835736828%7C1%7C1%7Cx.clarity.ms%2Fcollect",
-    "id": 3
-},
-{
-    "domain": ".ccbp.in",
     "expirationDate": 1737612308,
     "hostOnly": false,
     "httpOnly": false,
@@ -53,7 +39,7 @@
     "session": false,
     "storeId": "0",
     "value": "fb.1.1729670507024.955175642498787753",
-    "id": 4
+    "id": 3
 },
 {
     "domain": ".ccbp.in",
@@ -67,7 +53,7 @@
     "session": false,
     "storeId": "0",
     "value": "GA1.1.512760443.1729670489",
-    "id": 5
+    "id": 4
 },
 {
     "domain": ".ccbp.in",
@@ -81,7 +67,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.1.1729835738.5.1.1729836307.49.0.0",
-    "id": 6
+    "id": 5
 },
 {
     "domain": ".ccbp.in",
@@ -95,7 +81,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.1.1729751069.2.1.1729751362.0.0.0",
-    "id": 7
+    "id": 6
 },
 {
     "domain": ".ccbp.in",
@@ -109,7 +95,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.1.1729751067.2.1.1729751362.0.0.0",
-    "id": 8
+    "id": 7
 },
 {
     "domain": ".ccbp.in",
@@ -123,7 +109,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.1.1729835738.5.1.1729836308.0.0.0",
-    "id": 9
+    "id": 8
 },
 {
     "domain": ".ccbp.in",
@@ -137,7 +123,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.1.1729751069.2.1.1729751362.18.0.0",
-    "id": 10
+    "id": 9
 },
 {
     "domain": ".ccbp.in",
@@ -151,7 +137,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.1.1729751070.2.1.1729751362.17.0.0",
-    "id": 11
+    "id": 10
 },
 {
     "domain": ".ccbp.in",
@@ -165,7 +151,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.2.1729751072.2.1.1729751321.0.0.0",
-    "id": 12
+    "id": 11
 },
 {
     "domain": ".ccbp.in",
@@ -179,7 +165,7 @@
     "session": false,
     "storeId": "0",
     "value": "GS1.1.1729751068.2.1.1729751362.0.0.0",
-    "id": 13
+    "id": 12
 },
 {
     "domain": ".ccbp.in",
@@ -193,21 +179,7 @@
     "session": false,
     "storeId": "0",
     "value": "1.1.1260557130.1729670486",
-    "id": 14
-},
-{
-    "domain": ".ccbp.in",
-    "expirationDate": 1729837720,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_gid",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "GA1.2.171319635.1729670494",
-    "id": 15
+    "id": 13
 },
 {
     "domain": ".ccbp.in",
@@ -221,7 +193,7 @@
     "session": false,
     "storeId": "0",
     "value": "043d919c-6426-46ce-a6b1-cc1e42ba8ff8",
-    "id": 16
+    "id": 14
 },
 {
     "domain": ".ccbp.in",
@@ -235,7 +207,7 @@
     "session": false,
     "storeId": "0",
     "value": "dfaab252-75fe-40d4-95e7-2c7b5f1abf16",
-    "id": 17
+    "id": 15
 },
 {
     "domain": ".ccbp.in",
@@ -249,7 +221,7 @@
     "session": false,
     "storeId": "0",
     "value": "1729835742739",
-    "id": 18
+    "id": 16
 },
 {
     "domain": ".ccbp.in",
@@ -263,11 +235,11 @@
     "session": false,
     "storeId": "0",
     "value": "1729836320648",
-    "id": 19
+    "id": 17
 },
 {
     "domain": ".ccbp.in",
-    "expirationDate": 1761371745,
+    "expirationDate": 1761372326,
     "hostOnly": false,
     "httpOnly": false,
     "name": "mp_172d50fc48f5056aaba45aad789c280d_mixpanel",
@@ -277,7 +249,7 @@
     "session": false,
     "storeId": "0",
     "value": "%7B%22distinct_id%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%2C%22%24device_id%22%3A%20%22192bd360d5bd29b-045e3cb7a25564-b457554-61830-192bd360d5cd29d%22%2C%22mp_lib%22%3A%20%22Segment%3A%20web%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Faccounts.ccbp.in%2F%22%2C%22%24initial_referring_domain%22%3A%20%22accounts.ccbp.in%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%2C%22mp_name_tag%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%2C%22gender%22%3A%20%22male%22%2C%22active_enroll_plan%22%3A%20%22CCBP_ACADEMY_SMART%22%2C%22user_tag_category%22%3A%20%22TA_23021%22%2C%22we_whatsapp_opt_in%22%3A%20true%2C%22id%22%3A%20%22dfaab252-75fe-40d4-95e7-2c7b5f1abf16%22%7D",
-    "id": 20
+    "id": 18
 },
 {
     "domain": "learning.ccbp.in",
@@ -291,7 +263,7 @@
     "session": false,
     "storeId": "0",
     "value": "lwbF1gzxYkJgKJDMNNZnf2eH4QiP0g",
-    "id": 21
+    "id": 19
 },
 {
     "domain": "learning.ccbp.in",
@@ -305,7 +277,7 @@
     "session": false,
     "storeId": "0",
     "value": "Jnc6TLxSnLXCOIl4zsFk1lHggtfYmy",
-    "id": 22
+    "id": 20
 },
 {
     "domain": "learning.ccbp.in",
@@ -319,7 +291,7 @@
     "session": false,
     "storeId": "0",
     "value": "nmj7zYueWwAyvzM8qddorwQwAwAei3",
-    "id": 23
+    "id": 21
 },
 {
     "domain": "learning.ccbp.in",
@@ -333,35 +305,7 @@
     "session": false,
     "storeId": "0",
     "value": "true",
-    "id": 24
-},
-{
-    "domain": "learning.ccbp.in",
-    "expirationDate": 1729836621,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "ws_DnGpaHizRpdr",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "nkb-backend-ws-ccbp-prod-apis.ccbp.in",
-    "id": 25
-},
-{
-    "domain": "learning.ccbp.in",
-    "expirationDate": 1729836621,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "ws_XHObPCvTrnRP",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "AHid74bzNgQjw0FJzG5BP1T8DqLT3B3Ow6NZ",
-    "id": 26
+    "id": 22
 },
 {
     "domain": "learning.ccbp.in",
@@ -375,6 +319,6 @@
     "session": false,
     "storeId": "0",
     "value": "dfaab252-75fe-40d4-95e7-2c7b5f1abf16",
-    "id": 27
+    "id": 23
 }
 ]
